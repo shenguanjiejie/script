@@ -1,0 +1,5 @@
+{
+  "result": true,
+  "message": null,
+  "data": "\"[{ \\\"Fcurrentairtype\\\":\\\"B737\\\",\\\"Fdepartmentname\\\":\\\"波音五中队\\\",\\\"PSR\\\":\\\"高级机长\\\",\\\"PendingTaskID\\\":\\\"84da8d36-6fff-44fd-96ea-74d70b1f467b\\\",\\\"Flighttime\\\":12784.37,\\\"Fename\\\":\\\"MA LIANG\\\",\\\"Fserviceorganization\\\":\\\"\\\",\\\"FID\\\":\\\"3FDD40F96BA54DDDB4D6536676515CCE\\\",\\\"Fcname\\\":\\\"马良\\\",\\\"Fjobnumber\\\":\\\"A05130\\\",\\\"Fexaminer\\\":\\\"\\\",\\\"FinstanceID\\\":\\\"3267cd32-d8cf-4836-bc26-d5a8f6686891\\\",\\\"Createtime\\\":\\\"\\\",\\\"Ftelephon\\\":\\\"\\\",\\\"Fnodename\\\":\\\"\\\",\\\"TrainingId\\\":\\\"43\\\",\\\"Fdictechnologylevel\\\":\\\"Tech_TeacherA\\\",\\\"Trainingname\\\":\\\"转B类教员-模拟机训练\\\",\\\"TrainWay\\\":\\\"3\\\",\\\"fdictype\\\":\\\"PilotSourceStudent2\\\",\\\"F4CODE\\\":\\\"\\\",\\\"Flightexptime\\\":11329.02,\\\"Allupdowncount\\\":3963,\\\"Opupdowncount\\\":2359,\\\"Curatflightexptime\\\":10467.83,\\\"Thistagethrouthtime\\\":3650.7,\\\"Thisudcount\\\":1464,\\\"Thistagetudcount\\\":698,\\\"Flyid\\\":\\\"\\\" }]\""
+}
